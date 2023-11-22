@@ -3,7 +3,7 @@ import openai
 import streamlit as st
 
 # Impostazione temporanea per scopi di debug
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "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"
 
 # Imposta la chiave API di OpenAI
 openai.api_key = os.getenv("OPENAI_API_KEY")
